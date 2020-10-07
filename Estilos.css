@@ -3,12 +3,24 @@ body
    color: blue;
     text-align: left;
     font-family: "Arial";
+    font-size: 16px
+    margin: 0;
+    padding: 0;
+
+
+    #cabecera
+    {
+        background-color: chartreuse;
 
     #container
+    {
+
     width: 70%;
     padding: 1em;
     text-align: :left
-    border 1px solidcolor
+    border: 1px solidcolor
     margin: 0 auto;
-    #container h1
+    }
     
+    #container h1
+
