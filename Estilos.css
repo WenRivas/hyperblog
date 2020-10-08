@@ -2,13 +2,17 @@ body
 {
    color: blue;
     text-align: left;
-    font-family: "courier";
+    font-family: "Arial";
 
     #container
+    {
+
     width: 70%;
     padding: 1em;
     text-align: :left
-    border 1px solidcolor
+    border: 1px solid color
     margin: 0 auto;
-    #container h1
+    }
     
+    #container h1
+
